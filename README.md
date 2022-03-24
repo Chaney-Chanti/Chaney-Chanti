@@ -6,7 +6,7 @@ I am also currently _interning_ as a _software engineer_ at _Teradek_ in Irvine,
 but will soon be joining _Amazon_ as a _SDE intern_ for the summer of 2022!
 
 
-####Social Media
+#### Social Media
 I don't use social media that often, but you can find my on LinkedIn (link below) or the following:
   * Youtube https://www.youtube.com/channel/UCIgOGCfoVYmHTPQ4Rk6H63w
   * Instagram: https://www.instagram.com/chaney_chanti/?hl=en
