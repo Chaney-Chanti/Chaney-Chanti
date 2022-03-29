@@ -14,7 +14,7 @@ I don't use social media that often, but you can find my on LinkedIn (link below
 - 🔭 I’m currently working on a discord bot game  
 - 🌱 I’m currently learning: React
 - 🤔 I’m looking for help with: Trying to figure out life lol
-- 💬 About Me: I an MBTI of INTP
+- 💬 About Me: My MBTI is INTP
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/chaney-chantipaporn-19162b1b5/
 - ⚡ Fun fact: I love to play tennis!
 
