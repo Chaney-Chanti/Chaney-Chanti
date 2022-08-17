@@ -2,8 +2,8 @@
 
 #### Experience
 I am currently a Senior at _California State University, Fullerton_ majoring in computer science.
-I am also currently _interning_ as a _software engineer_ at _Teradek_ in Irvine, CA since July of 2021
-but will soon be joining _Amazon_ as a _SDE intern_ for the summer of 2022!
+I have _interned_ as a _software engineer_ at _Teradek_ in Irvine, CA from July 2021 - May 2022,
+and  _Amazon_ from May 2022 - August 2022!
 
 
 #### Social Media
