@@ -1,7 +1,7 @@
 ### Hi there 👋 and welcome to my github profile! Here is some information about myself!
 
 #### Experience
-I am currently a Senior at _California State University, Fullerton_ majoring in computer science.
+I am a recent graduate from _California State University, Fullerton_ majoring in computer science.
 I have _interned_ as a _software engineer_ at _Teradek_ in Irvine, CA from July 2021 - May 2022,
 and  _Amazon_ from May 2022 - August 2022!
 
