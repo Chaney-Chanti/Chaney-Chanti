@@ -11,10 +11,10 @@ I don't use social media that often, but you can find me on LinkedIn (link below
   * Youtube https://www.youtube.com/channel/UCIgOGCfoVYmHTPQ4Rk6H63w
   * Instagram: https://www.instagram.com/chaney_chanti/?hl=en
   
-- 🔭 I’m currently working on a discord bot game  
-- 🌱 I’m currently learning: React
+- 🔭 I’m currently working on a real estate app in python
+- 🌱 I’m currently learning: more about python
 - 🤔 I’m looking for help with: Trying to figure out life lol
 - 💬 About Me: My MBTI is INTP
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/chaney-chantipaporn-19162b1b5/
-- ⚡ Fun fact: I love to play tennis!
+- ⚡ Fun fact: I love to play tennis, volleyball, badminton, and golf!
 
