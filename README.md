@@ -5,6 +5,7 @@ I graduated from _California State University, Fullerton_ majoring in computer s
 Internships:
 1. _Teradek_  | Irvine, CA | July 2021 - May 2022,
 2. _Amazon_ | Sunnyvale, CA | May 2022 - August 2022
+
 Fulltime:
 1. _Amazon_ | Sunnyvale, CA | Jan 2023 - Jan 2026
 
